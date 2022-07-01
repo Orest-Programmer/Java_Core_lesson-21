@@ -1,0 +1,3 @@
+String name--->@ua.lviv.lgs.MyAnnotation("For name")
+String surName--->@ua.lviv.lgs.MyAnnotation("For surName")
+String hobby--->@ua.lviv.lgs.MyAnnotation("For hobby")
